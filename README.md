@@ -1,4 +1,4 @@
-# Create-React-App Project (Redux)
+# Create-React-App Project (Mobx)
 
 - State Manager : Mobx
 - Plugins : eslint, prettier
